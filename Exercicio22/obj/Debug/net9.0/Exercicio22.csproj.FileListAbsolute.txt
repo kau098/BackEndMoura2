@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio22/bin/Debug/net9.0/Exercicio22
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio22/bin/Debug/net9.0/Exercicio22.deps.json
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio22/bin/Debug/net9.0/Exercicio22.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio22/bin/Debug/net9.0/Exercicio22.dll
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio22/bin/Debug/net9.0/Exercicio22.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio22/obj/Debug/net9.0/Exercicio22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio22/obj/Debug/net9.0/Exercicio22.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio22/obj/Debug/net9.0/Exercicio22.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio22/obj/Debug/net9.0/Exercicio22.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio22/obj/Debug/net9.0/Exercicio22.dll
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio22/obj/Debug/net9.0/refint/Exercicio22.dll
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio22/obj/Debug/net9.0/Exercicio22.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio22/obj/Debug/net9.0/Exercicio22.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio22/obj/Debug/net9.0/ref/Exercicio22.dll

@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioParesImpares/bin/Debug/net9.0/DesafioParesImpares
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioParesImpares/bin/Debug/net9.0/DesafioParesImpares.deps.json
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioParesImpares/bin/Debug/net9.0/DesafioParesImpares.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioParesImpares/bin/Debug/net9.0/DesafioParesImpares.dll
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioParesImpares/bin/Debug/net9.0/DesafioParesImpares.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioParesImpares/obj/Debug/net9.0/DesafioParesImpares.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioParesImpares/obj/Debug/net9.0/DesafioParesImpares.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioParesImpares/obj/Debug/net9.0/DesafioParesImpares.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioParesImpares/obj/Debug/net9.0/DesafioParesImpares.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioParesImpares/obj/Debug/net9.0/DesafioParesImpares.dll
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioParesImpares/obj/Debug/net9.0/refint/DesafioParesImpares.dll
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioParesImpares/obj/Debug/net9.0/DesafioParesImpares.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioParesImpares/obj/Debug/net9.0/DesafioParesImpares.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioParesImpares/obj/Debug/net9.0/ref/DesafioParesImpares.dll

@@ -1,0 +1,15 @@
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PrimeiraClasse/bin/Debug/net9.0/PrimeiraClasse
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PrimeiraClasse/bin/Debug/net9.0/PrimeiraClasse.deps.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PrimeiraClasse/bin/Debug/net9.0/PrimeiraClasse.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PrimeiraClasse/bin/Debug/net9.0/PrimeiraClasse.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PrimeiraClasse/bin/Debug/net9.0/PrimeiraClasse.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PrimeiraClasse/obj/Debug/net9.0/PrimeiraClasse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PrimeiraClasse/obj/Debug/net9.0/PrimeiraClasse.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PrimeiraClasse/obj/Debug/net9.0/PrimeiraClasse.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PrimeiraClasse/obj/Debug/net9.0/PrimeiraClasse.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PrimeiraClasse/obj/Debug/net9.0/PrimeiraClasse.sourcelink.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PrimeiraClasse/obj/Debug/net9.0/PrimeiraClasse.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PrimeiraClasse/obj/Debug/net9.0/refint/PrimeiraClasse.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PrimeiraClasse/obj/Debug/net9.0/PrimeiraClasse.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PrimeiraClasse/obj/Debug/net9.0/PrimeiraClasse.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PrimeiraClasse/obj/Debug/net9.0/ref/PrimeiraClasse.dll

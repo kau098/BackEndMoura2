@@ -1,0 +1,15 @@
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Interface/ExerciciosInterface/Exercicio02/bin/Debug/net9.0/Exercicio02
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Interface/ExerciciosInterface/Exercicio02/bin/Debug/net9.0/Exercicio02.deps.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Interface/ExerciciosInterface/Exercicio02/bin/Debug/net9.0/Exercicio02.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Interface/ExerciciosInterface/Exercicio02/bin/Debug/net9.0/Exercicio02.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Interface/ExerciciosInterface/Exercicio02/bin/Debug/net9.0/Exercicio02.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Interface/ExerciciosInterface/Exercicio02/obj/Debug/net9.0/Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Interface/ExerciciosInterface/Exercicio02/obj/Debug/net9.0/Exercicio02.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Interface/ExerciciosInterface/Exercicio02/obj/Debug/net9.0/Exercicio02.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Interface/ExerciciosInterface/Exercicio02/obj/Debug/net9.0/Exercicio02.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Interface/ExerciciosInterface/Exercicio02/obj/Debug/net9.0/Exercicio02.sourcelink.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Interface/ExerciciosInterface/Exercicio02/obj/Debug/net9.0/Exercicio02.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Interface/ExerciciosInterface/Exercicio02/obj/Debug/net9.0/refint/Exercicio02.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Interface/ExerciciosInterface/Exercicio02/obj/Debug/net9.0/Exercicio02.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Interface/ExerciciosInterface/Exercicio02/obj/Debug/net9.0/Exercicio02.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Interface/ExerciciosInterface/Exercicio02/obj/Debug/net9.0/ref/Exercicio02.dll

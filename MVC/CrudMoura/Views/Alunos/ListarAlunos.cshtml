@@ -1,0 +1,12 @@
+@* @model List<CrudMoura.Models.Aluno> *@
+
+<h1>Listagem de Alunos</h1>
+
+@foreach(var item in @ViewBag.alunos){
+    <p>
+        Código do Aluno: @item.Id<br>
+        Nome: @item.Nome @item.Sobrenome<br>
+        Idade: @item.Idade<br>
+        Idade: @item.Cpf
+    </p>
+}

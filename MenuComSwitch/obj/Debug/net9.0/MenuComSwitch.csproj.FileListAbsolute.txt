@@ -1,0 +1,15 @@
+/Users/eduardocosta/Desktop/BackEndMoura/MenuComSwitch/bin/Debug/net9.0/MenuComSwitch
+/Users/eduardocosta/Desktop/BackEndMoura/MenuComSwitch/bin/Debug/net9.0/MenuComSwitch.deps.json
+/Users/eduardocosta/Desktop/BackEndMoura/MenuComSwitch/bin/Debug/net9.0/MenuComSwitch.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndMoura/MenuComSwitch/bin/Debug/net9.0/MenuComSwitch.dll
+/Users/eduardocosta/Desktop/BackEndMoura/MenuComSwitch/bin/Debug/net9.0/MenuComSwitch.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/MenuComSwitch/obj/Debug/net9.0/MenuComSwitch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndMoura/MenuComSwitch/obj/Debug/net9.0/MenuComSwitch.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/MenuComSwitch/obj/Debug/net9.0/MenuComSwitch.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndMoura/MenuComSwitch/obj/Debug/net9.0/MenuComSwitch.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/MenuComSwitch/obj/Debug/net9.0/MenuComSwitch.sourcelink.json
+/Users/eduardocosta/Desktop/BackEndMoura/MenuComSwitch/obj/Debug/net9.0/MenuComSwitch.dll
+/Users/eduardocosta/Desktop/BackEndMoura/MenuComSwitch/obj/Debug/net9.0/refint/MenuComSwitch.dll
+/Users/eduardocosta/Desktop/BackEndMoura/MenuComSwitch/obj/Debug/net9.0/MenuComSwitch.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/MenuComSwitch/obj/Debug/net9.0/MenuComSwitch.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndMoura/MenuComSwitch/obj/Debug/net9.0/ref/MenuComSwitch.dll

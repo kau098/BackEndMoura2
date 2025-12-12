@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/BackEndMoura/ConcatFor/bin/Debug/net9.0/ConcatFor
+/Users/eduardocosta/Desktop/BackEndMoura/ConcatFor/bin/Debug/net9.0/ConcatFor.deps.json
+/Users/eduardocosta/Desktop/BackEndMoura/ConcatFor/bin/Debug/net9.0/ConcatFor.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndMoura/ConcatFor/bin/Debug/net9.0/ConcatFor.dll
+/Users/eduardocosta/Desktop/BackEndMoura/ConcatFor/bin/Debug/net9.0/ConcatFor.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/ConcatFor/obj/Debug/net9.0/ConcatFor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndMoura/ConcatFor/obj/Debug/net9.0/ConcatFor.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/ConcatFor/obj/Debug/net9.0/ConcatFor.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndMoura/ConcatFor/obj/Debug/net9.0/ConcatFor.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/ConcatFor/obj/Debug/net9.0/ConcatFor.dll
+/Users/eduardocosta/Desktop/BackEndMoura/ConcatFor/obj/Debug/net9.0/refint/ConcatFor.dll
+/Users/eduardocosta/Desktop/BackEndMoura/ConcatFor/obj/Debug/net9.0/ConcatFor.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/ConcatFor/obj/Debug/net9.0/ConcatFor.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndMoura/ConcatFor/obj/Debug/net9.0/ref/ConcatFor.dll

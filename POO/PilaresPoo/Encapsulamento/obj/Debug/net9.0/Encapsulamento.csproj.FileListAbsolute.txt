@@ -1,0 +1,15 @@
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Encapsulamento/bin/Debug/net9.0/Encapsulamento
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Encapsulamento/bin/Debug/net9.0/Encapsulamento.deps.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Encapsulamento/bin/Debug/net9.0/Encapsulamento.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Encapsulamento/bin/Debug/net9.0/Encapsulamento.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Encapsulamento/bin/Debug/net9.0/Encapsulamento.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Encapsulamento/obj/Debug/net9.0/Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Encapsulamento/obj/Debug/net9.0/Encapsulamento.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Encapsulamento/obj/Debug/net9.0/Encapsulamento.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Encapsulamento/obj/Debug/net9.0/Encapsulamento.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Encapsulamento/obj/Debug/net9.0/Encapsulamento.sourcelink.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Encapsulamento/obj/Debug/net9.0/Encapsulamento.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Encapsulamento/obj/Debug/net9.0/refint/Encapsulamento.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Encapsulamento/obj/Debug/net9.0/Encapsulamento.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Encapsulamento/obj/Debug/net9.0/Encapsulamento.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Encapsulamento/obj/Debug/net9.0/ref/Encapsulamento.dll

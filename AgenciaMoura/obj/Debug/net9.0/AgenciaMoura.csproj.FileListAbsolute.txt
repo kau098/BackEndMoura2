@@ -1,0 +1,15 @@
+/Users/eduardocosta/Desktop/BackEndMoura/AgenciaMoura/bin/Debug/net9.0/AgenciaMoura
+/Users/eduardocosta/Desktop/BackEndMoura/AgenciaMoura/bin/Debug/net9.0/AgenciaMoura.deps.json
+/Users/eduardocosta/Desktop/BackEndMoura/AgenciaMoura/bin/Debug/net9.0/AgenciaMoura.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndMoura/AgenciaMoura/bin/Debug/net9.0/AgenciaMoura.dll
+/Users/eduardocosta/Desktop/BackEndMoura/AgenciaMoura/bin/Debug/net9.0/AgenciaMoura.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/AgenciaMoura/obj/Debug/net9.0/AgenciaMoura.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndMoura/AgenciaMoura/obj/Debug/net9.0/AgenciaMoura.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/AgenciaMoura/obj/Debug/net9.0/AgenciaMoura.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndMoura/AgenciaMoura/obj/Debug/net9.0/AgenciaMoura.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/AgenciaMoura/obj/Debug/net9.0/AgenciaMoura.sourcelink.json
+/Users/eduardocosta/Desktop/BackEndMoura/AgenciaMoura/obj/Debug/net9.0/AgenciaMoura.dll
+/Users/eduardocosta/Desktop/BackEndMoura/AgenciaMoura/obj/Debug/net9.0/refint/AgenciaMoura.dll
+/Users/eduardocosta/Desktop/BackEndMoura/AgenciaMoura/obj/Debug/net9.0/AgenciaMoura.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/AgenciaMoura/obj/Debug/net9.0/AgenciaMoura.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndMoura/AgenciaMoura/obj/Debug/net9.0/ref/AgenciaMoura.dll

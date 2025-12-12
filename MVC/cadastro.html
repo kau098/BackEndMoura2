@@ -1,0 +1,64 @@
+public async Task<IActionResult> Index(IFormCollection form)
+    {
+        TbUsuario novoUsuario = new TbUsuario()
+        {
+          NomeCompleto = form["NomeCompleto"].ToString(),
+          NomeUsuario = form["NomeUsuario"].ToString(),
+          Email = form["Email"].ToString(),
+          Senha = form["Senha"].ToString()
+        };
+
+        if (form.Files.Count > 0)
+        {
+            IFormFile file = form.Files[0];
+            var folder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images");
+
+            if (Directory.Exists(folder))
+            {
+                Directory.CreateDirectory(folder);
+            }
+
+            string path = Path.Combine(folder, file.FileName);
+
+            using (var stream = new FileStream(path, FileMode.Create))
+            {
+                await file.CopyToAsync(stream);
+            }
+
+            novoUsuario.FotoPerflUrl = file.FileName;
+        }
+        else
+        {
+            novoUsuario.FotoPerflUrl = "";
+        }
+
+        try
+        {
+            _context.TbUsuario.Add(novoUsuario);
+
+            await _context.SaveChangesAsync();
+
+            TempData["UsuarioNovoCadastrado"] = "Cadastrado";
+            ViewBag.UsuarioNovoCadastrado = "";
+
+            return RedirectToAction("Index", "Home");
+        }
+        catch (System.Exception ex)
+        {
+            ViewBag.UsuarioNovoCadastrado = "Nao cadastrado";
+            TempData["UsuarioNovoCadastrado"] = "";
+             return View();
+        }
+
+    }
+
+
+
+builder.Services.AddDbContext<DevConnectContext>(options =>
+options.UseSqlServer(builder.Configuration.GetConnectionString("DevCon_Windows"))
+);
+
+
+
+
+dotnet ef dbcontext scaffold "Name=DevCon_Windows" Microsoft.EntityFrameworkCore.SqlServer -o Models --context-dir Contexts -c DevConnectContext --data-annotations -f --no-pluralize

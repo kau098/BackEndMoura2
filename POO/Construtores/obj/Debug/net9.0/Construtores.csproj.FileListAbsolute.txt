@@ -1,0 +1,15 @@
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Construtores/bin/Debug/net9.0/Construtores
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Construtores/bin/Debug/net9.0/Construtores.deps.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Construtores/bin/Debug/net9.0/Construtores.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Construtores/bin/Debug/net9.0/Construtores.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Construtores/bin/Debug/net9.0/Construtores.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Construtores/obj/Debug/net9.0/Construtores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Construtores/obj/Debug/net9.0/Construtores.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Construtores/obj/Debug/net9.0/Construtores.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Construtores/obj/Debug/net9.0/Construtores.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Construtores/obj/Debug/net9.0/Construtores.sourcelink.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Construtores/obj/Debug/net9.0/Construtores.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Construtores/obj/Debug/net9.0/refint/Construtores.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Construtores/obj/Debug/net9.0/Construtores.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Construtores/obj/Debug/net9.0/Construtores.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Construtores/obj/Debug/net9.0/ref/Construtores.dll

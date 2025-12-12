@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioCalc/bin/Debug/net9.0/DesafioCalc
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioCalc/bin/Debug/net9.0/DesafioCalc.deps.json
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioCalc/bin/Debug/net9.0/DesafioCalc.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioCalc/bin/Debug/net9.0/DesafioCalc.dll
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioCalc/bin/Debug/net9.0/DesafioCalc.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioCalc/obj/Debug/net9.0/DesafioCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioCalc/obj/Debug/net9.0/DesafioCalc.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioCalc/obj/Debug/net9.0/DesafioCalc.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioCalc/obj/Debug/net9.0/DesafioCalc.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioCalc/obj/Debug/net9.0/DesafioCalc.dll
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioCalc/obj/Debug/net9.0/refint/DesafioCalc.dll
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioCalc/obj/Debug/net9.0/DesafioCalc.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioCalc/obj/Debug/net9.0/DesafioCalc.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioCalc/obj/Debug/net9.0/ref/DesafioCalc.dll

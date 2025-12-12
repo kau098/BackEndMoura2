@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/BackEndMoura/While/bin/Debug/net9.0/While
+/Users/eduardocosta/Desktop/BackEndMoura/While/bin/Debug/net9.0/While.deps.json
+/Users/eduardocosta/Desktop/BackEndMoura/While/bin/Debug/net9.0/While.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndMoura/While/bin/Debug/net9.0/While.dll
+/Users/eduardocosta/Desktop/BackEndMoura/While/bin/Debug/net9.0/While.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/While/obj/Debug/net9.0/While.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndMoura/While/obj/Debug/net9.0/While.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/While/obj/Debug/net9.0/While.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndMoura/While/obj/Debug/net9.0/While.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/While/obj/Debug/net9.0/While.dll
+/Users/eduardocosta/Desktop/BackEndMoura/While/obj/Debug/net9.0/refint/While.dll
+/Users/eduardocosta/Desktop/BackEndMoura/While/obj/Debug/net9.0/While.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/While/obj/Debug/net9.0/While.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndMoura/While/obj/Debug/net9.0/ref/While.dll

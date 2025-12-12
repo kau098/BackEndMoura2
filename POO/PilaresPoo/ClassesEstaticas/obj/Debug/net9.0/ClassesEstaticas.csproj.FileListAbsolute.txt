@@ -1,0 +1,15 @@
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/ClassesEstaticas/bin/Debug/net9.0/ClassesEstaticas
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/ClassesEstaticas/bin/Debug/net9.0/ClassesEstaticas.deps.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/ClassesEstaticas/bin/Debug/net9.0/ClassesEstaticas.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/ClassesEstaticas/bin/Debug/net9.0/ClassesEstaticas.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/ClassesEstaticas/bin/Debug/net9.0/ClassesEstaticas.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/ClassesEstaticas/obj/Debug/net9.0/ClassesEstaticas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/ClassesEstaticas/obj/Debug/net9.0/ClassesEstaticas.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/ClassesEstaticas/obj/Debug/net9.0/ClassesEstaticas.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/ClassesEstaticas/obj/Debug/net9.0/ClassesEstaticas.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/ClassesEstaticas/obj/Debug/net9.0/ClassesEstaticas.sourcelink.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/ClassesEstaticas/obj/Debug/net9.0/ClassesEstaticas.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/ClassesEstaticas/obj/Debug/net9.0/refint/ClassesEstaticas.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/ClassesEstaticas/obj/Debug/net9.0/ClassesEstaticas.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/ClassesEstaticas/obj/Debug/net9.0/ClassesEstaticas.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/ClassesEstaticas/obj/Debug/net9.0/ref/ClassesEstaticas.dll

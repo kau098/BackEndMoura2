@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioMaior/bin/Debug/net9.0/DesafioMaior
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioMaior/bin/Debug/net9.0/DesafioMaior.deps.json
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioMaior/bin/Debug/net9.0/DesafioMaior.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioMaior/bin/Debug/net9.0/DesafioMaior.dll
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioMaior/bin/Debug/net9.0/DesafioMaior.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioMaior/obj/Debug/net9.0/DesafioMaior.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioMaior/obj/Debug/net9.0/DesafioMaior.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioMaior/obj/Debug/net9.0/DesafioMaior.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioMaior/obj/Debug/net9.0/DesafioMaior.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioMaior/obj/Debug/net9.0/DesafioMaior.dll
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioMaior/obj/Debug/net9.0/refint/DesafioMaior.dll
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioMaior/obj/Debug/net9.0/DesafioMaior.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioMaior/obj/Debug/net9.0/DesafioMaior.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndMoura/DesafioMaior/obj/Debug/net9.0/ref/DesafioMaior.dll

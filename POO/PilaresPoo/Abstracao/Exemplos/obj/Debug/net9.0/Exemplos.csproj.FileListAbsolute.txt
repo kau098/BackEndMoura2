@@ -1,0 +1,15 @@
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Abstracao/Exemplos/bin/Debug/net9.0/Exemplos
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Abstracao/Exemplos/bin/Debug/net9.0/Exemplos.deps.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Abstracao/Exemplos/bin/Debug/net9.0/Exemplos.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Abstracao/Exemplos/bin/Debug/net9.0/Exemplos.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Abstracao/Exemplos/bin/Debug/net9.0/Exemplos.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Abstracao/Exemplos/obj/Debug/net9.0/Exemplos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Abstracao/Exemplos/obj/Debug/net9.0/Exemplos.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Abstracao/Exemplos/obj/Debug/net9.0/Exemplos.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Abstracao/Exemplos/obj/Debug/net9.0/Exemplos.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Abstracao/Exemplos/obj/Debug/net9.0/Exemplos.sourcelink.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Abstracao/Exemplos/obj/Debug/net9.0/Exemplos.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Abstracao/Exemplos/obj/Debug/net9.0/refint/Exemplos.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Abstracao/Exemplos/obj/Debug/net9.0/Exemplos.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Abstracao/Exemplos/obj/Debug/net9.0/Exemplos.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/PilaresPoo/Abstracao/Exemplos/obj/Debug/net9.0/ref/Exemplos.dll

@@ -1,0 +1,15 @@
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Calculadora/bin/Debug/net9.0/Calculadora
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Calculadora/bin/Debug/net9.0/Calculadora.deps.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Calculadora/bin/Debug/net9.0/Calculadora.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Calculadora/bin/Debug/net9.0/Calculadora.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Calculadora/bin/Debug/net9.0/Calculadora.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Calculadora/obj/Debug/net9.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Calculadora/obj/Debug/net9.0/Calculadora.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Calculadora/obj/Debug/net9.0/Calculadora.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Calculadora/obj/Debug/net9.0/Calculadora.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Calculadora/obj/Debug/net9.0/Calculadora.sourcelink.json
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Calculadora/obj/Debug/net9.0/Calculadora.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Calculadora/obj/Debug/net9.0/refint/Calculadora.dll
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Calculadora/obj/Debug/net9.0/Calculadora.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Calculadora/obj/Debug/net9.0/Calculadora.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndMoura/POO/Calculadora/obj/Debug/net9.0/ref/Calculadora.dll

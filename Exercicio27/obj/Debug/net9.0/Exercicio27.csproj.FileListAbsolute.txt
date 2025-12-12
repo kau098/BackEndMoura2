@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio27/bin/Debug/net9.0/Exercicio27
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio27/bin/Debug/net9.0/Exercicio27.deps.json
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio27/bin/Debug/net9.0/Exercicio27.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio27/bin/Debug/net9.0/Exercicio27.dll
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio27/bin/Debug/net9.0/Exercicio27.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio27/obj/Debug/net9.0/Exercicio27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio27/obj/Debug/net9.0/Exercicio27.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio27/obj/Debug/net9.0/Exercicio27.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio27/obj/Debug/net9.0/Exercicio27.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio27/obj/Debug/net9.0/Exercicio27.dll
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio27/obj/Debug/net9.0/refint/Exercicio27.dll
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio27/obj/Debug/net9.0/Exercicio27.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio27/obj/Debug/net9.0/Exercicio27.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio27/obj/Debug/net9.0/ref/Exercicio27.dll

@@ -1,0 +1,15 @@
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio01/bin/Debug/net9.0/Exercicio01
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio01/bin/Debug/net9.0/Exercicio01.deps.json
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio01/bin/Debug/net9.0/Exercicio01.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio01/bin/Debug/net9.0/Exercicio01.dll
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio01/bin/Debug/net9.0/Exercicio01.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio01/obj/Debug/net9.0/Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio01/obj/Debug/net9.0/Exercicio01.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio01/obj/Debug/net9.0/Exercicio01.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio01/obj/Debug/net9.0/Exercicio01.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio01/obj/Debug/net9.0/Exercicio01.sourcelink.json
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio01/obj/Debug/net9.0/Exercicio01.dll
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio01/obj/Debug/net9.0/refint/Exercicio01.dll
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio01/obj/Debug/net9.0/Exercicio01.pdb
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio01/obj/Debug/net9.0/Exercicio01.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndMoura/Exercicio01/obj/Debug/net9.0/ref/Exercicio01.dll
